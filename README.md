@@ -1,18 +1,68 @@
-# React + Vite
+# 🩺 MediFeel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Portfolio Prototype** — 🥈 2nd Place @ Invest Ottawa Hackathon (The Ada Sisterhood)
 
-Currently, two official plugins are available:
+An AI-powered universal health tracking platform built for patients who are too often dismissed by the healthcare system — women, people with chronic pain, and minority groups who've been told *"there's nothing wrong with you"* when they knew something was.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Built in **5 hours** by a team of 6.
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## ✨ Features
 
-Note: This will impact Vite dev & build performances.
+- 🗺️ **Interactive Body Map** — Tap exactly where it hurts
+- 📊 **Pain & Symptom Logger** — Severity slider, symptom checklist, voice notes, and trigger tracking
+- 🤖 **AI Pattern Detection** — Identifies flare-ups and generates doctor-ready reports automatically
+- 💊 **Medication Tracker** — Log what you're taking and whether it's actually helping
+- 🏥 **Doctor Portal** — Real-time patient alerts, AI-generated clinical summaries, and doctor-to-doctor sharing
+- ❤️ **Caregiver Portal** — Keeps the people supporting patients informed
+- ⌚ **Apple Watch Integration** — Automatic health data sync
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Frontend | React, Next.js |
+| Charts | Recharts |
+| Backend/Auth | Firebase |
+| AI | Claude API (Anthropic) |
+| Build Tool | Vite |
+
+---
+
+## 🚀 Getting Started
+```bash
+# Clone the repo
+git clone https://github.com/dhruvimadlani29/medifeel.git
+cd medifeel
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## ⚠️ Disclaimer
+
+This is a **prototype built for a hackathon** and is intended for **portfolio purposes only**. It is not a production-ready medical application and should not be used for actual medical advice or diagnosis.
+
+---
+
+## 👩‍💻 Built By
+
+**Dhruvi Madlani** — [GitHub](https://github.com/dhruvimadlani29) · [LinkedIn](https://linkedin.com/in/dhruvimadlani)
+
+*Team: Kyle Fraser, Amber Norlock, Peter Arseneau, Alan*
+
+---
+
+## 🏆 Recognition
+
+🥈 **2nd Place** — Invest Ottawa Hackathon hosted by The Ada Sisterhood
