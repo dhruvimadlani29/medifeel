@@ -4,7 +4,7 @@
 
 An AI-powered universal health tracking platform built for patients who are too often dismissed by the healthcare system — women, people with chronic pain, and minority groups who've been told *"there's nothing wrong with you"* when they knew something was.
 
-Built in **5 hours** by a team of 6.
+Built in **5 hours**.
 
 ---
 
