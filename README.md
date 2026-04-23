@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+<!-- Open [http://localhost:5173](http://localhost:5173) in your browser. -->
 
 ---
 
@@ -58,8 +58,6 @@ This is a **prototype built for a hackathon** and is intended for **portfolio pu
 ## 👩‍💻 Built By
 
 **Dhruvi Madlani** — [GitHub](https://github.com/dhruvimadlani29) · [LinkedIn](https://linkedin.com/in/dhruvimadlani)
-
-*Team: Kyle Fraser, Amber Norlock, Peter Arseneau, Alan*
 
 ---
 
